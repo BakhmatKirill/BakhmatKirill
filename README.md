@@ -2,6 +2,17 @@
 
 <h2 align="center">Front-End Developer</h2>
 
+<h3 align="start">Languages and tools</h3>
+
+
+<span><img height="40" width="40" src="https://cdn.simpleicons.org/html5/#E34F26" /></span>
+<span><img height="40" width="40" src="https://cdn.simpleicons.org/css3/#E34F26" /></span>
+<span><img height="40" width="40" src="https://cdn.simpleicons.org/sass/#CC6699" /></span>
+<span><img height="40" width="40" src="https://cdn.simpleicons.org/javascript/#F7DF1E" /></span>
+
+
+
+
 <h3 align="start">Top Languages</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BakhmatKirill&layout=compact&theme=dark)](https://github.com/BakhmatKirill/github-readme-stats)
