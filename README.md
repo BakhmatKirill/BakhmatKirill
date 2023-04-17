@@ -20,18 +20,18 @@
 <span><img height="40" width="40" title="Visual Studio Code" src="https://cdn.simpleicons.org/visualstudiocode/#007ACC" /></span>
 <span><img height="40" width="40" title="Figma" src="https://cdn.simpleicons.org/figma/#F24E1E" /></span>
 <span><img height="40" width="40" title="Node.js" src="https://cdn.simpleicons.org/nodedotjs/#339933" /></span>
-
+---
 <h3 align="start">Top Languages</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BakhmatKirill&layout=compact&theme=dark)](https://github.com/BakhmatKirill/github-readme-stats)
-
+---
 <h3 align="start">Codewars</h3>
 
 [![codewars](https://www.codewars.com/users/BakhmatKirill/badges/large)](https://www.codewars.com/users/BakhmatKirill)
-
+---
 
 ![](https://komarev.com/ghpvc/?username=BakhmatKirill&style=flat)
-
+---
 <!--
 **BakhmatKirill/BakhmatKirill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
