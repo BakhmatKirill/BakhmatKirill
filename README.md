@@ -14,6 +14,7 @@
 <span><img height="40" width="40" title="React Hook Form" src="https://cdn.simpleicons.org/reacthookform/#EC5990" /></span>
 <span><img height="40" width="40" title="React Styled Components" src="https://cdn.simpleicons.org/styledcomponents/#DB7093" /></span>
 <span><img height="40" width="40" title="Bootstrap" src="https://cdn.simpleicons.org/bootstrap/#7952B3" /></span>
+<span><img height="40" width="40" title="npm" src="https://cdn.simpleicons.org/npm/#CB3837" /></span>
 <span><img height="40" width="40" title="Git" src="https://cdn.simpleicons.org/git/#F05032" /></span>
 <span><img height="40" width="40" title="GitHub" src="https://cdn.simpleicons.org/github/#181717" /></span>
 <span><img height="40" width="40" title="Visual Studio Code" src="https://cdn.simpleicons.org/visualstudiocode/#007ACC" /></span>
