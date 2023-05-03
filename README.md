@@ -11,6 +11,7 @@
 <span><img height="40" width="40" title="JavaScript" src="https://cdn.simpleicons.org/javascript/#F7DF1E" /></span>
 <span><img height="40" width="40" title="TypeScript" src="https://cdn.simpleicons.org/typescript/#3178C6" /></span>
 <span><img height="40" width="40" title="React" src="https://cdn.simpleicons.org/react/#61DAFB" /></span>
+<span><img height="40" width="40" title="Redux" src="https://cdn.simpleicons.org/redux/#764ABC" /></span>
 <span><img height="40" width="40" title="React Hook Form" src="https://cdn.simpleicons.org/reacthookform/#EC5990" /></span>
 <span><img height="40" width="40" title="React Styled Components" src="https://cdn.simpleicons.org/styledcomponents/#DB7093" /></span>
 <span><img height="40" width="40" title="Bootstrap" src="https://cdn.simpleicons.org/bootstrap/#7952B3" /></span>
